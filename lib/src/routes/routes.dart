@@ -1,3 +1,4 @@
+import 'package:componentes/src/pages/formulario_page.dart';
 import 'package:componentes/src/pages/nueva_page.dart';
 import 'package:flutter/material.dart';
 
@@ -23,5 +24,6 @@ Map<String, WidgetBuilder> getApplicationRoutes() {
     'list': (BuildContext context) => ListaPage(),
     'tiempo': (BuildContext context) => TiempoPage(),
     'nueva': (BuildContext context) => NuevaPage(),
+    'formulario': (BuildContext context) => FormularioPage()
   };
 }
