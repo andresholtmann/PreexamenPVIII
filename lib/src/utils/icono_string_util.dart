@@ -9,7 +9,8 @@ final _icons = <String, IconData>{
   'list': Icons.list,
   'tune': Icons.tune,
   'alarm': Icons.alarm,
-  'touch_app': Icons.touch_app
+  'touch_app': Icons.touch_app,
+  'android': Icons.android
 };
 
 Icon getIcon(String nombreIcono) {

@@ -45,6 +45,11 @@
             "ruta" : "nueva",
             "icon" : "touch_app",
             "texto": "nueva"
+        },
+        {
+            "ruta" : "formulario",
+            "icon" : "android",
+            "texto": "Formulario"
         }
 
 
